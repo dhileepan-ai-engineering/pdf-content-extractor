@@ -1,2 +1,2 @@
-# pdf-content-extractor
+# PDF Content Extractor
 AI-powered tool for parsing PDFs to extract structured text, tabular data, and embedded images using function calling.
